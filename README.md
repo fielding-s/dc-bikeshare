@@ -1,4 +1,4 @@
-# Has the Coronavirus pandemic affected use of DC bike rentals?
+# How has the coronavirus pandemic impacted use of DC bike rentals?
 
 Just a quick trial with dc open bikeshare data: 
 
